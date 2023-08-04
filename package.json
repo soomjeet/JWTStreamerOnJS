@@ -1,0 +1,11 @@
+{
+  "name": "jwtstreameronjs",
+  "version": "1.0.0",
+  "description": "Sample code to use JSForce library to subscribe to platform events from salesforce on nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
