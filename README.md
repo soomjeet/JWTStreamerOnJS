@@ -32,7 +32,7 @@ Before running the code, make sure you have the following prerequisites:
    CONSUMER_KEY=your_salesforce_connected_app_consumer_key
    USERNAME=your_salesforce_username
    TEST_URL=https://your-salesforce-instance-url
-   CHANNEL_URL=/topic/Your_Channel_Name
+   CHANNEL_URL=/event/Your_Channel_Name
    PEM_FILE_LOCATION=path_to_your_private_key.pem
    ```
 
