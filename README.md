@@ -2,7 +2,7 @@
 
 To install all dependencies, please run the below command
 
-```node:
+```shell:
 npm install dotenv axios fs jsforce jsonwebtoken moment querystring url
 ```
 
@@ -22,3 +22,9 @@ After all the dependencies are installed, Fill the .env file with
 
 //*File Location where the PEM file of private key is stored*
 <br/>PEM_FILE_LOCATION="" <br/><br/>
+
+To Run the snippet, use the below command
+
+```shell:
+node index.js
+```
