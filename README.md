@@ -1,4 +1,4 @@
-```markdown
+
 # JWT Salesforce Streaming Example
 
 This repository contains a Node.js code snippet that demonstrates how to use JSON Web Token (JWT) authentication to establish a connection with Salesforce and stream data from a specified channel. The code utilizes libraries such as Axios for HTTP requests, JSforce for Salesforce integration, and Moment for time manipulation.
