@@ -16,8 +16,8 @@ Before running the code, make sure you have the following prerequisites:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/salesforce-jwt-streaming.git
-   cd salesforce-jwt-streaming
+   git clone https://github.com/soomjeet/JWTStreamerOnJS.git
+   cd JWTStreamerOnJS
    ```
 
 2. Install the required dependencies using npm:
